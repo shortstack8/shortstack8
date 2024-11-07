@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Tirelle @shortstack8
-- 🌱 I’m at the very beginning of my coding journey...looking forward to the growth! 🌱
+Hi, I’m Tirelle @shortstack8, I’m at the very beginning of my coding journey...excited for what's to come...to infinity and beyond!  
 
 
 <!---
